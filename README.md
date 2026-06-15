@@ -12,8 +12,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhi13shek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Abhi13shek&icon=4&color=8)](https://visitcount.itsvg.in)
+
 
 
 ## 🐍 Contribution Snake
