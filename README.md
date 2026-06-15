@@ -12,7 +12,7 @@
 - 🔭 Working on Full Stack & Data Analytics Projects
 - 🌱 Currently learning Data Structures & Algorithms, System Design
 - 💬 Ask me about Java, React, SQL, Spring Boot
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: [abhisheksingh13dz@gmail.com](mailto:abhisheksingh13dz@gmail.com)
 - ⚡ Fun Fact: I enjoy building software and analyzing cricket data
 
 ---
