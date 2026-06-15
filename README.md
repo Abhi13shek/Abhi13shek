@@ -76,21 +76,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi13shek&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi13shek&theme=tokyo-night"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
