@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: shivanshtiwari23
+          github_user_name: Abhi13shek
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
