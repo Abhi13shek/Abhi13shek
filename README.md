@@ -71,11 +71,7 @@
 
 
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Abhi13shek/Abhi13shek/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
