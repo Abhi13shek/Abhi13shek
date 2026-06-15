@@ -68,13 +68,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Abhi13shek&theme=tokyonight&hide_border=false"/>
-</p>
-
----
 
 
 
