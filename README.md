@@ -83,20 +83,6 @@
 </p>
 
 
-</div>
-
-<p align="center">
-  <i>Building, Learning, and Contributing Every Day 🚀</i>
-</p>
----
-
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Abhi13shek&color=blueviolet)
-
----
-
 <p align="center">
   <b>Thanks for visiting my profile ❤️</b>
 </p>
