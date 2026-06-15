@@ -73,17 +73,17 @@
 
 # 🐍 Contribution Snake
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Abhi13shek/Abhi13shek/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Abhi13shek/Abhi13shek/output/github-contribution-grid-snake-dark.svg"/>
+  <i>Building, Learning, and Contributing Every Day 🚀</i>
 </p>
-
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ### 👀 Profile Views
 
