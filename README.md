@@ -15,4 +15,9 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Abhi13shek&icon=4&color=8)](https://visitcount.itsvg.in)
 
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shivanshtiwari23/shivanshtiwari23/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
