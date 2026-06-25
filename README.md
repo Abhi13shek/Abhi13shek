@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">Software Developer | B.Tech IT Student</h3>
+<h3 align="center">Developer | B.Tech CSE-AI Student</h3>
 <p align="center">
   Passionate about Full Stack Development, Data Analytics, and Building Real-World Projects
 </p>
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔭 Working on Full Stack & Data Analytics Projects
 - 🌱 Currently learning Data Structures & Algorithms, System Design
-- 💬 Ask me about Java, React, SQL, Spring Boot
+- 💬 Ask me about Java, React, Spring Boot
 - 📫 Reach me at: [abhisheksingh13dz@gmail.com](mailto:abhisheksingh13dz@gmail.com)
 - ⚡ Fun Fact: I enjoy building software and analyzing cricket data
 
