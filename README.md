@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D85A30&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+React;Always+Building+%2C+Always+Learning" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Abhi13shek&label=Profile%20Views&color=D85A30&style=for-the-badge" alt="profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Abhi13shek&label=Profile%20Views&color=D85A30&style=for-the-badge" alt="profile views"/> -->
 
 </div>
 
