@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:61DAFB&height=200&section=header&text=Hi%20There,%20I'm%20Abhishek%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20B.Tech%20CSE-AI%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Building+%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+React;Always+Building+%2C+Always+Learning" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Abhi13shek&label=Profile%20Views&color=6DB33F&style=for-the-badge" alt="profile views"/>
@@ -15,12 +15,12 @@
 ## 🚀 About Me
 
 ```yaml
-name: Abhishek Singh
-role: Full Stack Developer & Data Analytics Enthusiast
-education: B.Tech CSE (AI)
-currently_learning: [Data Structures & Algorithms, System Design]
-ask_me_about: [Java, React, Spring Boot]
-fun_fact: "I enjoy building software and analyzing cricket data 🏏"
+Name: Abhishek Singh
+Role: Full Stack Developer & Data Analytics Enthusiast
+Education: B.Tech CSE (AI)
+Currently_learning: [Data Structures & Algorithms, Object-Oriented Programming]
+Ask_me_about: [Java, React]
+Fun_fact: "I enjoy building software"
 ```
 
 - 🔭 Working on **Full Stack & Data Analytics** projects
@@ -50,11 +50,10 @@ fun_fact: "I enjoy building software and analyzing cricket data 🏏"
 ## ⚡ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,mongodb,git,github,react,python" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,postgres,git,github,react" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
@@ -63,34 +62,6 @@ fun_fact: "I enjoy building software and analyzing cricket data 🏏"
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi13shek&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi13shek&layout=compact&theme=react&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi13shek&theme=react&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi13shek&theme=react-dark&hide_border=true)
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi13shek&theme=algolia&no-frame=true&row=1&column=7" />
-
-</div>
-
-<br>
 
 ## 🚀 Currently Working On
 
