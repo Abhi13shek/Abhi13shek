@@ -13,11 +13,11 @@ Role: Full Stack Developer & Data Analytics Enthusiast
 Education: B.Tech CSE (AI)
 Currently_learning: [Data Structures & Algorithms, Object-Oriented Programming]
 Ask_me_about: [Java, React]
-Fun_fact: "I enjoy building software"
+Fun_fact: "I enjoy building software and analyzing cricket data"
 ```
 - 🔭 Working on **Full Stack & Data Analytics** projects
-- 🌱 Currently sharpening **DSA** & **System Design**
-- 💬 Ask me about **Java • React • Spring Boot**
+- 🌱 Currently sharpening **DSA** & **Object-Oriented Programming**
+- 💬 Ask me about **Java • React**
 - 📫 Reach me: **abhisheksingh13dz@gmail.com**
 - ⚡ Fun fact: I enjoy building software and analyzing cricket data
 <br>
