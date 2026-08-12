@@ -1,36 +1,58 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">Developer | B.Tech CSE-AI Student</h3>
-<p align="center">
-  Passionate about Full Stack Development, Data Analytics, and Building Real-World Projects
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:61DAFB&height=200&section=header&text=Hi%20There,%20I'm%20Abhishek%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20B.Tech%20CSE-AI%20Student&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Building+%2C+Always+Learning" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Abhi13shek&label=Profile%20Views&color=6DB33F&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<br>
 
 ## 🚀 About Me
-- 🔭 Working on Full Stack & Data Analytics Projects
-- 🌱 Currently learning Data Structures & Algorithms, System Design
-- 💬 Ask me about Java, React, Spring Boot
-- 📫 Reach me at: [abhisheksingh13dz@gmail.com](mailto:abhisheksingh13dz@gmail.com)
-- ⚡ Fun Fact: I enjoy building software and analyzing cricket data
 
----
+```yaml
+name: Abhishek Singh
+role: Full Stack Developer & Data Analytics Enthusiast
+education: B.Tech CSE (AI)
+currently_learning: [Data Structures & Algorithms, System Design]
+ask_me_about: [Java, React, Spring Boot]
+fun_fact: "I enjoy building software and analyzing cricket data 🏏"
+```
+
+- 🔭 Working on **Full Stack & Data Analytics** projects
+- 🌱 Currently sharpening **DSA** & **System Design**
+- 💬 Ask me about **Java • React • Spring Boot**
+- 📫 Reach me: **abhisheksingh13dz@gmail.com**
+- ⚡ Fun fact: I enjoy building software and analyzing cricket data
+
+<br>
 
 ## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Abhi13shek">
+<a href="https://github.com/Abhi13shek" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:abhisheksingh13dz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
----
+<br>
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,mongodb,git,github,react,python" />
 </p>
+
 <p align="left">
 <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -39,29 +61,59 @@
 <img src="https://img.shields.io/badge/AI_TOOLS-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
----
+<br>
 
-# 🚀 Currently Working On
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi13shek&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi13shek&layout=compact&theme=react&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi13shek&theme=react&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhi13shek&theme=react-dark&hide_border=true)
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhi13shek&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br>
+
+## 🚀 Currently Working On
+
 - 🚀 Building Full Stack Applications
 - 📊 Data Analytics & Visualization Projects
 - 💻 Strengthening DSA & Problem Solving
 - 🤖 Exploring AI & LLM Technologies
 
----
+<br>
 
+## 🐍 Contribution Snake
 
-
-# 🐍 Contribution Snake
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Abhi13shek/Abhi13shek/output/github-contribution-grid-snake-dark.svg)
-
+<img src="https://raw.githubusercontent.com/Abhi13shek/Abhi13shek/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
-  <i>Building, Learning, and Contributing Every Day 🚀</i>
-</p>
+<br>
 
-<p align="center">
-  <b>Thanks for visiting my profile ❤️</b>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:6DB33F&height=100&section=footer"/>
+
+**Building, Learning, and Contributing Every Day 🚀**
+
+**Thanks for visiting my profile ❤️**
+
+</div>
