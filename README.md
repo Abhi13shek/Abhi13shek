@@ -84,6 +84,7 @@ Fun_fact: "I enjoy building software and analyzing cricket data"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer"/>
 
 **Building, Learning, and Contributing Every Day 🚀**
+
 **Thanks for visiting my profile ❤️**
 
 </div>
