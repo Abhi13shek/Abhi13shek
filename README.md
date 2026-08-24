@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Abhishek%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20B.Tech%20CSE-AI%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -79,10 +80,10 @@ Fun_fact: "I enjoy building software and analyzing cricket data"
 <br>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer"/>
 
 **Building, Learning, and Contributing Every Day 🚀**
-
 **Thanks for visiting my profile ❤️**
 
 </div>
